@@ -33,5 +33,7 @@ if(opcao == 1){
     printf("Opcao invalida!\n");
 }
 
+system("pause");
+    
 return 0;
 }
