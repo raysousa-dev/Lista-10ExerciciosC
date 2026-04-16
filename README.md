@@ -19,7 +19,7 @@ A ideia principal foi aplicar conceitos matemáticos, condições e estruturas d
 * Construtor de tabuada (2 até 10).
 * Calculadora de médias com parada em números negativos.
 
-## Instruções Usadas para Fazer os Programas
+## 🔍 Instruções Usadas para Fazer os Programas
 1. Fazer um programa para receber um número inteiro de segundos do usuário e
 imprimir a quantidade correspondente em horas, minutos e segundos.
 2. Fazer um programa para ler um número do usuário e determinar se este número é par ou não par.
