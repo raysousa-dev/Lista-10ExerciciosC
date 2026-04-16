@@ -21,6 +21,9 @@ if(n3 < menor){
     menor = n3;
 }
 printf("O maior numero e %.2f\n. O numero medio e %.2f\n. O menor numero e %.2f\n", maior, media, menor);
+
+system("pause");
+    
 return 0;
 
 }
